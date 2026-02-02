@@ -1,0 +1,14 @@
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\bin\Debug\net10.0\git007.exe
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\bin\Debug\net10.0\git007.deps.json
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\bin\Debug\net10.0\git007.runtimeconfig.json
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\bin\Debug\net10.0\git007.dll
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\bin\Debug\net10.0\git007.pdb
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.AssemblyInfoInputs.cache
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.AssemblyInfo.cs
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.csproj.CoreCompileInputs.cache
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.dll
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\refint\git007.dll
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.pdb
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\git007.genruntimeconfig.cache
+C:\Users\Основной\Desktop\ЛР\lab-git\git007\obj\Debug\net10.0\ref\git007.dll
